@@ -1,0 +1,16 @@
+{
+    "name": "hehn/projeto_final",
+    "description": "Projeto final PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Hehn",
+            "email": "bruno_dsh@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}
